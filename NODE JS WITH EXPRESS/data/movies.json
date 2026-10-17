@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Riddick",
+    "description": "Left for dead",
+    "duration": 119,
+    "ratings": 6.8,
+    "totalRatings": 329,
+    "releaseYear": 2013,
+    "releaseDate": "2013-09-04T00:00:00Z",
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "directors": "David Twohy",
+    "coverImage": "Riddick-2013.jpg",
+    "actors": ["Vin Diesel", "Karl Urban", "Katee Sackhoff"],
+    "price": 50
+  },
+  {
+    "name": "Inception",
+    "description": "A thief steals secrets through dream-sharing technology.",
+    "duration": 148,
+    "ratings": 8.8,
+    "totalRatings": 2500,
+    "releaseYear": 2010,
+    "releaseDate": "2010-07-16T00:00:00Z",
+    "genres": ["Action", "Sci-Fi", "Adventure"],
+    "directors": "Christopher Nolan",
+    "coverImage": "inception.jpg",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "price": 99
+  },
+  {
+    "name": "Interstellar",
+    "description": "Explorers travel through a wormhole in space.",
+    "duration": 169,
+    "ratings": 8.7,
+    "totalRatings": 3100,
+    "releaseYear": 2014,
+    "releaseDate": "2014-11-07T00:00:00Z",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "directors": "Christopher Nolan",
+    "coverImage": "interstellar.jpg",
+    "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "price": 120
+  },
+  {
+    "name": "The Dark Knight",
+    "description": "Batman faces the Joker in Gotham City.",
+    "duration": 152,
+    "ratings": 9.0,
+    "totalRatings": 5000,
+    "releaseYear": 2008,
+    "releaseDate": "2008-07-18T00:00:00Z",
+    "genres": ["Action", "Crime", "Drama"],
+    "directors": "Christopher Nolan",
+    "coverImage": "dark-knight.jpg",
+    "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "price": 89
+  },
+  {
+    "name": "Avatar",
+    "description": "A marine becomes involved in the fate of an alien world.",
+    "duration": 162,
+    "ratings": 7.9,
+    "totalRatings": 4000,
+    "releaseYear": 2009,
+    "releaseDate": "2009-12-18T00:00:00Z",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "directors": "James Cameron",
+    "coverImage": "avatar.jpg",
+    "actors": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+    "price": 110
+  }
+]
